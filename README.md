@@ -18,7 +18,7 @@
 
 <br>
 <h3 align="left">Social :</h3> 
-<a href="https://t.me/rayhan77updatein">
+<a href="https://t.me/Hanssxzt">
   <img align="left" alt="RayhanDz's" Telegram" width="30px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/telegram.svg" />
 </a>
 
