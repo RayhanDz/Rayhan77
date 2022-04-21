@@ -27,6 +27,9 @@
   <img align="left" alt="RayhanDz's" Telegram" width="30px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/telegram.svg" />
 </a>
 
+<p align = "center">
+ <img  width="3000px" src="https://activity-graph.herokuapp.com/graph?username=RayhanDz&theme=redical">
+</p>  
 
 
 <p align="center">
