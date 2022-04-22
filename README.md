@@ -31,6 +31,9 @@
  <img  width="3000px" src="https://activity-graph.herokuapp.com/graph?username=RayhanDz&theme=redical">
 </p>  
 
+<p><img width="400px" height="200px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayhanDz&layout=compact&&theme=tokyonight" alt="RayhanDz" /></p>
+
+<p align="left"> <ing src="https://gifs.alphacoders.com/gifs/view/9881" /> <p/>
 
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=RayhanDz&style=flat-square"/>
